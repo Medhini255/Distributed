@@ -1,7 +1,12 @@
+Project Documentation: Setting Up Distributed Prometheus
 
+Introduction-
+The goal of this project is to set up a Distributed Prometheus Architecture to monitor various nodes across a network efficiently. 
+It involves configuring Prometheus, setting up Node Exporters on different machines, and ensuring connectivity across the network.
 
 The Prometheus Node Exporter exposes a wide variety of hardware- and kernel-related metrics.
 
+Project steps-
 Configured prometheus.yml to scrape metrics from different nodes.
 Installing Node Exporters on Remote Machines
 Ensured Node Exporter was running with the correct network bindings.
