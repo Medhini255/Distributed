@@ -1,3 +1,1 @@
-#Remote Monitoring
-
-Project Documentation: 
+Remote Monitoring
